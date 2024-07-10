@@ -1,5 +1,5 @@
 <footer>
-    <p>Personal Project &copy; 2024</p>
+    <p>Code Blog &copy; 2024</p>
 </footer>
 </body>
 </html>
